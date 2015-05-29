@@ -13,6 +13,7 @@
 		4D488BA91B18D71C005FF60A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D488BA81B18D71C005FF60A /* Images.xcassets */; };
 		4D488BAC1B18D71C005FF60A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4D488BAA1B18D71C005FF60A /* LaunchScreen.xib */; };
 		4D488BB81B18D71C005FF60A /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D488BB71B18D71C005FF60A /* PhotoFiltersTests.swift */; };
+		4D488BC21B18D953005FF60A /* Mr-Burns-screenshot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4D488BC11B18D953005FF60A /* Mr-Burns-screenshot.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		4D488BB11B18D71C005FF60A /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D488BB61B18D71C005FF60A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4D488BB71B18D71C005FF60A /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		4D488BC11B18D953005FF60A /* Mr-Burns-screenshot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Mr-Burns-screenshot.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		4D488B9E1B18D71C005FF60A /* PhotoFilters */ = {
 			isa = PBXGroup;
 			children = (
+				4D488BC11B18D953005FF60A /* Mr-Burns-screenshot.jpg */,
 				4D488BA11B18D71C005FF60A /* AppDelegate.swift */,
 				4D488BA31B18D71C005FF60A /* ViewController.swift */,
 				4D488BA51B18D71C005FF60A /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				4D488BA71B18D71C005FF60A /* Main.storyboard in Resources */,
 				4D488BAC1B18D71C005FF60A /* LaunchScreen.xib in Resources */,
 				4D488BA91B18D71C005FF60A /* Images.xcassets in Resources */,
+				4D488BC21B18D953005FF60A /* Mr-Burns-screenshot.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
