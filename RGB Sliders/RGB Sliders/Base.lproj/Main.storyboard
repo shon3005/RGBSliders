@@ -47,7 +47,7 @@
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
-                                    <segue destination="yQu-tX-TlS" kind="show" id="QDb-Cf-Egi"/>
+                                    <segue destination="yQu-tX-TlS" kind="show" identifier="openColor" id="QDb-Cf-Egi"/>
                                 </connections>
                             </button>
                         </subviews>
